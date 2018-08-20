@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-      //  ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.CALL_PHONE, Manifest.permission.CAMERA}, 11);
+      //      ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.CALL_PHONE, Manifest.permission.CAMERA}, 11);
 
         et_nombre = findViewById(R.id.et_nombre);
         et_codigo = findViewById(R.id.et_codigo);
